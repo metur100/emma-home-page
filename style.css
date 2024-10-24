@@ -91,7 +91,7 @@ h6 {
 	color: #333;
 }
 .nav-scroll .nav-link:hover:after {
-	background-color: #2388ed;
+	background-color: #34495e;
 }
 .nav-scroll .active {
 	position: relative;
@@ -158,7 +158,7 @@ h6 {
 .line {
 	height: 2px;
 	width: 50px;
-	background: #e74c3c;
+	background: #1abc9c;
 	display: block;
 	margin: 20px auto 20px;
 }
@@ -168,7 +168,7 @@ h6 {
 	left: 50%;
 	width: 150px;
 	height: 2px;
-	border-bottom: 2px dashed #e74c3c;
+	border-bottom: 2px dashed #1abc9c;
 	margin-left: -75px;
 }
 .sectioner-header p {
@@ -298,10 +298,10 @@ h6 {
 	width: 50px;
 	height: 50px;
 	border-radius: 100px;
-	color: rgb(144, 179, 215);
+	color: #34495e;
 	font-size: 18px;
 	line-height: 50px;
-	border: 1px solid rgb(49, 68, 76);
+	border: 1px solid rgb(81, 85, 87);
 }
 .team {
 	background: #fafafa;
@@ -315,7 +315,7 @@ h6 {
 	width: 70%;
 }
 .team-detail h4 {
-	color:rgb(142, 30, 252);
+	color:rgb(98, 95, 100);
 	margin-top: 20px;
 	font-size: 17px;
 	margin-bottom: 0px;
@@ -497,7 +497,7 @@ input {
 @media all and (max-width:991px) {
 .navbar .navbar-collapse {
 	overflow: auto;
-	background:  rgb(213, 198, 221);
+	background:  rgb(185, 181, 187);
 	color: #fff !important;
 	text-align: center;
 	padding: 10px 0;
