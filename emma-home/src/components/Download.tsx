@@ -20,7 +20,7 @@ const Download: React.FC = () => {
                 <li>
                   <a href="#">
                     <img
-                      src="src/assets/appstore.png"
+                      src="src/assets/preuzmi.png"
                       className="wow fadeInUp"
                       data-wow-delay="0.4s"
                       alt="Download on App Store"
@@ -28,12 +28,16 @@ const Download: React.FC = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a
+                    href="https://nice-beach-0a7ef8803.5.azurestaticapps.net/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <img
-                      src="src/assets/playstore.png"
+                      src="src/assets/web4.png"
+                      alt="Web browser"
                       className="wow fadeInUp"
-                      data-wow-delay="0.7s"
-                      alt="Download on Google Play"
+                      data-wow-delay="0.4s"
                     />
                   </a>
                 </li>

@@ -6,7 +6,7 @@ const Footer: React.FC = () => (
       <div className="row">
         <div className="col-md-12">
           <p>
-            2204 &copy; EMMA-Logistics. Website Designed by{" "}
+            2024 &copy; EMMA Logistics. Website Designed by{" "}
             <a href="http://w3Template.com" target="_blank" rel="dofollow">
               W3 Template
             </a>

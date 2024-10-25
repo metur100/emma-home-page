@@ -19,25 +19,33 @@ const Team: React.FC = () => (
               <div className="col-md-4">
                 <div className="team-detail wow bounce" data-wow-delay="0.2s">
                   {" "}
-                  <img src="src/assets/user1.jpg" className="img-fluid" />
-                  <h4>Nitu Singh</h4>
-                  <p>Marketing Specialist</p>
+                  <img src="src/assets/medin.png" className="img-fluid" />
+                  <h4>Medin Turkes</h4>
+                  <p>IT Arhitek</p>
                 </div>
               </div>
               <div className="col-md-4">
                 <div className="team-detail wow bounce" data-wow-delay="0.4s">
                   {" "}
-                  <img src="src/assets/user2.jpg" className="img-fluid" />
-                  <h4>Yogesh Singh</h4>
+                  <img src="src/assets/ermin.png" className="img-fluid" />
+                  <h4>Ermin Sacirovic</h4>
                   <p>CEO & Founder</p>
                 </div>
               </div>
               <div className="col-md-4">
                 <div className="team-detail wow bounce" data-wow-delay="0.6s">
                   {" "}
-                  <img src="src/assets/user3.jpg" className="img-fluid" />
-                  <h4>Nisha Sharma</h4>
-                  <p>Web Developer</p>
+                  <img src="src/assets/mirsad.png" className="img-fluid" />
+                  <h4>Mirsad Piro</h4>
+                  <p>CEO</p>
+                </div>
+              </div>
+              <div className="col-md-4">
+                <div className="team-detail wow bounce" data-wow-delay="0.6s">
+                  {" "}
+                  <img src="src/assets/armin.png" className="img-fluid" />
+                  <h4>Armin Ostrvica</h4>
+                  <p>CEO</p>
                 </div>
               </div>
             </div>
