@@ -29,11 +29,11 @@ var bodyScroll = $(window).scrollTop(),
 navbar = $(".navbar");
 
 if(bodyScroll > 50){
-$('.navbar-logo img').attr('src','images/logo-black.png');
+$('.navbar-logo img').attr('src','/src/assets/logo.png');
 navbar.addClass("nav-scroll");
 
 }else{
-$('.navbar-logo img').attr('src','images/logo.png');
+$('.navbar-logo img').attr('src','/src/assets/logo.png');
 navbar.removeClass("nav-scroll");
 }
 
@@ -43,10 +43,10 @@ var bodyScroll = $(window).scrollTop(),
 navbar = $(".navbar");
 
 if(bodyScroll > 50){
-$('.navbar-logo img').attr('src','images/logo-black.png');
+$('.navbar-logo img').attr('src','/src/assets/logo.png');
 navbar.addClass("nav-scroll");
 }else{
-$('.navbar-logo img').attr('src','images/logo-white.png');
+$('.navbar-logo img').attr('src','/src/assets/logo.png');
 navbar.removeClass("nav-scroll");
 }
 

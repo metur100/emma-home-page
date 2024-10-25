@@ -14,7 +14,7 @@ import Download from './components/Download';
 const App: React.FC = () => {
   return (
     <div className="app">
-      <Navbar />
+        <Navbar />
         <Banner />
         <About />
         <Features />
