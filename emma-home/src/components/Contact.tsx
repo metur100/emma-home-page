@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Contact: React.FC = () => {
   return (
@@ -10,8 +10,9 @@ const Contact: React.FC = () => {
               <h3>Kontaktirajte nas</h3>
               <span className="line"></span>
               <p>
-                Sed quis nisi nisi. Proin consectetur porttitor dui sit amet viverra. Fusce sit amet lorem faucibus,
-                vestibulum ante in, pharetra ante.
+                Sed quis nisi nisi. Proin consectetur porttitor dui sit amet
+                viverra. Fusce sit amet lorem faucibus, vestibulum ante in,
+                pharetra ante.
               </p>
             </div>
             <div className="section-content">
@@ -53,7 +54,11 @@ const Contact: React.FC = () => {
                       placeholder="Message"
                       name="message"
                     ></textarea>
-                    <button className="btn-grad w-100 text-uppercase" type="submit" name="button">
+                    <button
+                      className="btn-grad w-100 text-uppercase"
+                      type="submit"
+                      name="button"
+                    >
                       Posalji
                     </button>
                   </form>
@@ -83,7 +88,10 @@ const Contact: React.FC = () => {
                       <div className="media-body">
                         <p className="text-uppercase">E-mail</p>
                         <p className="text-uppercase">
-                          <a className="text-white" href="mailto:abcdefg@gmail.com">
+                          <a
+                            className="text-white"
+                            href="mailto:abcdefg@gmail.com"
+                          >
                             emmalogistics@gmail.com
                           </a>
                         </p>
@@ -93,7 +101,9 @@ const Contact: React.FC = () => {
                       <i className="fa fa-clock media-left media-right-margin"></i>
                       <div className="media-body">
                         <p className="text-uppercase">Radno vrijeme</p>
-                        <p className="text-uppercase">Pon-pet od 7 do 16 sati</p>
+                        <p className="text-uppercase">
+                          Pon-pet od 7 do 16 sati
+                        </p>
                       </div>
                     </div>
                   </div>

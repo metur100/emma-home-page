@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Banner: React.FC = () => {
   return (
@@ -11,26 +11,28 @@ const Banner: React.FC = () => {
                 <h2 className="white">EMMA Logistics</h2>
                 <h6 className="white">Platforma za razmjenu tereta</h6>
                 <p className="banner-text white">
-                  Dobrodošli na našu Platformu za Razmjenu Tereta, gdje povezujemo klijente s pouzdanim transportnim opcijama za njihove potrebe prijevoza.
+                  Dobrodošli na našu Platformu za Razmjenu Tereta, gdje
+                  povezujemo klijente s pouzdanim transportnim opcijama za
+                  njihove potrebe prijevoza.
                 </p>
                 <ul>
                   <li>
                     <a href="#">
-                      <img 
-                        src="src/assets/appstore.png" 
+                      <img
+                        src="src/assets/appstore.png"
                         alt="App Store"
-                        className="wow fadeInUp" 
-                        data-wow-delay="0.4s" 
+                        className="wow fadeInUp"
+                        data-wow-delay="0.4s"
                       />
                     </a>
                   </li>
                   <li>
                     <a href="#">
-                      <img 
-                        src="src/assets/playstore.png" 
+                      <img
+                        src="src/assets/playstore.png"
                         alt="Play Store"
-                        className="wow fadeInUp" 
-                        data-wow-delay="0.7s" 
+                        className="wow fadeInUp"
+                        data-wow-delay="0.7s"
                       />
                     </a>
                   </li>
@@ -38,19 +40,17 @@ const Banner: React.FC = () => {
               </div>
             </div>
             <div className="col-md-4 col-sm-12">
-              <img 
-                src="src/assets/iphone-screen.png" 
+              <img
+                src="src/assets/iphone-screen.png"
                 alt="iPhone Screen"
-                className="img-fluid wow fadeInUp" 
+                className="img-fluid wow fadeInUp"
               />
             </div>
           </div>
         </div>
       </div>
       {/* Corrected to img tag for the SVG wave */}
-      <span className="svg-wave">
-
-      </span>
+      <span className="svg-wave"></span>
     </section>
   );
 };
