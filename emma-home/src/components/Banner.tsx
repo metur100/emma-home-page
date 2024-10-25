@@ -17,10 +17,14 @@ const Banner: React.FC = () => {
                 </p>
                 <ul>
                   <li>
-                    <a href="#">
+                    <a
+                      href="https://nice-beach-0a7ef8803.5.azurestaticapps.net/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       <img
-                        src="src/assets/appstore.png"
-                        alt="App Store"
+                        src="src/assets/web4.png"
+                        alt="Web browser"
                         className="wow fadeInUp"
                         data-wow-delay="0.4s"
                       />
@@ -29,7 +33,7 @@ const Banner: React.FC = () => {
                   <li>
                     <a href="#">
                       <img
-                        src="src/assets/playstore.png"
+                        src="src/assets/preuzmi.png"
                         alt="Play Store"
                         className="wow fadeInUp"
                         data-wow-delay="0.7s"
