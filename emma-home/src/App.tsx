@@ -5,7 +5,6 @@ import About from './components/About';
 import Features from './components/Features';
 import Banner from './components/Banner';
 import Team from './components/Team';
-import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
 import Navbar from './components/Navbar';
@@ -16,19 +15,16 @@ const App: React.FC = () => {
   return (
     <div className="app">
       <Navbar />
-      <div className="scrollable-content">
-        {/* Each component below will be rendered on the same page in order */}
         <Banner />
         <About />
         <Features />
         <Team />
-        <Testimonials />
         <FAQ />
         <Contact />
         <Download />
         <Footer />
       </div>
-    </div>
+    
   );
 };
 

@@ -31,7 +31,7 @@ const About: React.FC = () => (
               </div>
             </div>
           </div>
-          <a href="#" className="about-btn">Learn More</a> </div>
+          <a href="#" className="about-btn">Saznaj vise</a> </div>
       </div>
     </div>
   </div>

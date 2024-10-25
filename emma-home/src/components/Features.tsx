@@ -36,7 +36,7 @@ const Features: React.FC = () => (
               </div>
             </div>
             <div className="col-md-4 d-none d-md-block d-lg-block">
-              <div className="feature-mobile"> <img src="images/iphone-screen-with-shadow.png" className="img-fluid wow fadeInUp"/> </div>
+              <div className="feature-mobile"> <img src="src/assets/iphone-screen-with-shadow.png" className="img-fluid wow fadeInUp"/> </div>
             </div>
             <div className="col-md-4 col-sm-12">
               <div className="media single-feature wow fadeInUp" data-wow-delay="0.2s">

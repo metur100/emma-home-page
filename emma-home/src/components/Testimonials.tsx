@@ -21,7 +21,7 @@ const Testimonials: React.FC = () => (
                   <div className="slider-item">
                     <div className="test-img">
                       <img 
-                        src="images/user1.jpg" 
+                        src="src/assets/user1.jpg" 
                         alt="John Michal"
                         width={157} 
                         height={157} 
@@ -39,7 +39,7 @@ const Testimonials: React.FC = () => (
                   <div className="slider-item">
                     <div className="test-img">
                       <img 
-                        src="images/user3.jpg" 
+                        src="src/assets/user3.jpg" 
                         alt="Steve Smith"
                         width={157} 
                         height={157} 
@@ -57,7 +57,7 @@ const Testimonials: React.FC = () => (
                   <div className="slider-item">
                     <div className="test-img">
                       <img 
-                        src="images/user3.jpg" 
+                        src="src/assets/user3.jpg" 
                         alt="Gordon Shaw"
                         width={157} 
                         height={157} 

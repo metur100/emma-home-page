@@ -20,7 +20,7 @@ const Download: React.FC = () => {
                 <li>
                   <a href="#">
                     <img
-                      src="images/appstore.png"
+                      src="src/assets/appstore.png"
                       className="wow fadeInUp"
                       data-wow-delay="0.4s"
                       alt="Download on App Store"
@@ -30,7 +30,7 @@ const Download: React.FC = () => {
                 <li>
                   <a href="#">
                     <img
-                      src="images/playstore.png"
+                      src="src/assets/playstore.png"
                       className="wow fadeInUp"
                       data-wow-delay="0.7s"
                       alt="Download on Google Play"

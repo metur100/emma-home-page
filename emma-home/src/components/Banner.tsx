@@ -17,7 +17,7 @@ const Banner: React.FC = () => {
                   <li>
                     <a href="#">
                       <img 
-                        src="images/appstore.png" 
+                        src="src/assets/appstore.png" 
                         alt="App Store"
                         className="wow fadeInUp" 
                         data-wow-delay="0.4s" 
@@ -27,7 +27,7 @@ const Banner: React.FC = () => {
                   <li>
                     <a href="#">
                       <img 
-                        src="images/playstore.png" 
+                        src="src/assets/playstore.png" 
                         alt="Play Store"
                         className="wow fadeInUp" 
                         data-wow-delay="0.7s" 
@@ -39,7 +39,7 @@ const Banner: React.FC = () => {
             </div>
             <div className="col-md-4 col-sm-12">
               <img 
-                src="images/iphone-screen.png" 
+                src="src/assets/iphone-screen.png" 
                 alt="iPhone Screen"
                 className="img-fluid wow fadeInUp" 
               />
@@ -49,11 +49,7 @@ const Banner: React.FC = () => {
       </div>
       {/* Corrected to img tag for the SVG wave */}
       <span className="svg-wave">
-        <img 
-          className="svg-hero" 
-          src="images/your-svg-file.svg" 
-          alt="SVG Wave" 
-        />
+
       </span>
     </section>
   );
