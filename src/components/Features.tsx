@@ -6,7 +6,7 @@ const Features: React.FC = () => (
       <div className="row">
         <div className="col-md-12">
           <div className="sectioner-header text-center">
-            <h3>Znacajke</h3>
+            <h3>Značajke</h3>
             <span className="line"></span>
             <p>
               Ovo su neke od ključnih karakteristika koje izdvajaju našu

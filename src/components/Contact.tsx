@@ -10,9 +10,8 @@ const Contact: React.FC = () => {
               <h3>Kontaktirajte nas</h3>
               <span className="line"></span>
               <p>
-                Sed quis nisi nisi. Proin consectetur porttitor dui sit amet
-                viverra. Fusce sit amet lorem faucibus, vestibulum ante in,
-                pharetra ante.
+                Uvijek smo dostupni za podršku i odgovore na vaša pitanja.
+                Kontaktirajte nas kako bismo zajedno pronašli najbolje rješenje za vaše logističke potrebe.
               </p>
             </div>
             <div className="section-content">
@@ -26,7 +25,7 @@ const Contact: React.FC = () => {
                           id="your_name"
                           className="form-input w-100"
                           name="full-name"
-                          placeholder="Full Name"
+                          placeholder="Ime i prezime"
                           required
                         />
                       </div>
@@ -46,12 +45,12 @@ const Contact: React.FC = () => {
                       id="subject"
                       className="form-input w-100"
                       name="subject"
-                      placeholder="Subject"
+                      placeholder="Predmet"
                     />
                     <textarea
                       className="form-input w-100"
                       id="message"
-                      placeholder="Message"
+                      placeholder="Poruka"
                       name="message"
                     ></textarea>
                     <button
@@ -69,7 +68,7 @@ const Contact: React.FC = () => {
                       <i className="fa fa-map-marker-alt media-left media-right-margin"></i>
                       <div className="media-body">
                         <p className="text-uppercase">Adresa</p>
-                        <p className="text-uppercase">Dzemilic Planje bb</p>
+                        <p className="text-uppercase">Džemilić Planje bb</p>
                       </div>
                     </div>
                     <div className="contact-item media">

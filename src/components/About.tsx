@@ -53,7 +53,7 @@ const About: React.FC = () => (
               </div>
             </div>
             <a href="#" className="about-btn">
-              Saznaj vise
+              Saznaj više
             </a>{" "}
           </div>
         </div>

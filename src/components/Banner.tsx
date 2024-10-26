@@ -18,7 +18,7 @@ const Banner: React.FC = () => {
                 <ul>
                   <li>
                     <a
-                      href="https://nice-beach-0a7ef8803.5.azurestaticapps.net/"
+                      href="https://kind-sand-03c376003.5.azurestaticapps.net/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
