@@ -9,7 +9,7 @@ const FAQ: React.FC = () => (
           <div className="sectioner-header text-center">
             <h3>Često Postavljana Pitanja</h3>
             <span className="line"></span>
-            <p>Ovdje mozete pronaci cesto postavljena pitanja</p>
+            <p>Ovdje možete pronaći često postavljena pitanja</p>
           </div>
           <div className="section-content">
             <div className="row">

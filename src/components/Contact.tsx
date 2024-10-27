@@ -58,7 +58,7 @@ const Contact: React.FC = () => {
                       type="submit"
                       name="button"
                     >
-                      Posalji
+                      Pošalji
                     </button>
                   </form>
                 </div>

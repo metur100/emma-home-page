@@ -24,7 +24,7 @@ const Navbar = () => {
             <li className="nav-item">
               {" "}
               <a className="nav-link" href="" data-scroll-nav="0">
-                Pocetna
+                Početna
               </a>{" "}
             </li>
             <li className="nav-item">
@@ -36,7 +36,7 @@ const Navbar = () => {
             <li className="nav-item">
               {" "}
               <a className="nav-link" href="#" data-scroll-nav="2">
-                Znacajke
+                Značajke
               </a>{" "}
             </li>
             <li className="nav-item">
@@ -48,7 +48,7 @@ const Navbar = () => {
             <li className="nav-item">
               {" "}
               <a className="nav-link" href="#" data-scroll-nav="5">
-                Najcesca pitanja
+                Najčešća pitanja
               </a>{" "}
             </li>
             <li className="nav-item">
